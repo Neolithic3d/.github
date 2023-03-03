@@ -1,5 +1,7 @@
 ## We are Neolithic - Industrial 3D Printing Hub for Concrete, Stone & Clay
 
+![image](https://user-images.githubusercontent.com/83062781/222816479-50ab082a-cc1f-4024-adca-e2fbacca5f3e.png)
+
 Neolithic delivers high quality building and civil components with the help of our robotic production facilities and optimised digital workflows. 
 
 Quick and on-demand production optimised for your needs!

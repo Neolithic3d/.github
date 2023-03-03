@@ -16,6 +16,7 @@ Are you ready to join our journey and challenge the current status quo?
 ## Get in touch
 
 https://linkedin.com/company/neolithic
+
 info@neolithic3d.com
 
 <!--
